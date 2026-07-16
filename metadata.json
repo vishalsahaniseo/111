@@ -1,0 +1,6 @@
+{
+  "name": "Ghost CMS Clone",
+  "description": "A modern headless publishing platform and CMS, inspired by Ghost.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

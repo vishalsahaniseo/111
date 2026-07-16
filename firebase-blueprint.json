@@ -1,0 +1,34 @@
+{
+  "posts": {
+    "type": "collection",
+    "schema": {
+      "title": "string",
+      "slug": "string",
+      "content": "string",
+      "excerpt": "string",
+      "featureImage": "string",
+      "status": "string",
+      "publishedAt": "timestamp",
+      "authorId": "string",
+      "createdAt": "timestamp",
+      "updatedAt": "timestamp"
+    }
+  },
+  "settings": {
+    "type": "collection",
+    "schema": {
+      "siteTitle": "string",
+      "siteDescription": "string",
+      "coverImage": "string"
+    }
+  },
+  "users": {
+    "type": "collection",
+    "schema": {
+      "email": "string",
+      "name": "string",
+      "role": "string",
+      "avatar": "string"
+    }
+  }
+}
